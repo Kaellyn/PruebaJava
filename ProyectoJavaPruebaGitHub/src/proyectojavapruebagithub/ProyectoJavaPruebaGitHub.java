@@ -17,6 +17,9 @@ public class ProyectoJavaPruebaGitHub {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola Gente");
+		        System.out.println("Hola soy jonathan");
+		        System.out.println("como estan");
+
     }
     
 }
